@@ -1,6 +1,6 @@
-# Audio Classification using MLPClassifier
+# Speech Emotion Recognition
 
-This project focuses on classifying audio data using features like **MFCC**, **Chroma**, and **Mel Spectrogram**, extracted from audio signals. The classification is performed using a **Multi-Layer Perceptron (MLPClassifier)** from scikit-learn.
+This repository contains a Speech Emotion Recognition (SER) system that classifies emotions from audio data using machine learning techniques, specifically a **Multi-Layer Perceptron (MLP) Classifier**.
 
 ## 🔍 Features Used
 - **MFCC (Mel-Frequency Cepstral Coefficients)**: Captures timbral texture of sound.
